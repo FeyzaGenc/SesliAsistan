@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sesli Asistan</string>
+    <string name="first_message">Merhaba, nasıl yardımcı olabilirim?</string>
+    <string name="second_message">Birşeyler söylemek ister misin?</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">aa09b2f2369da62789126f5e45d20387</string>
+
+</resources>
